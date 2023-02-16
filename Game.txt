@@ -3,3 +3,6 @@ Magdi is great!
 if(Magdi is great!) {
 Ban(Mehdi);
 }
+else{
+Ban(Alex);
+}
