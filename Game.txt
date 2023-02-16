@@ -3,11 +3,11 @@ Magdi is great!
 if(Magdi is great!) {
     Ban(Mehdi);
 }
-
 else {
     Ban(Alex);
     still ban him
     👍
+    SIUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU🍔
 }
 
 //Boomerangs are Australia's biggest export, it's also their biggest import :P
