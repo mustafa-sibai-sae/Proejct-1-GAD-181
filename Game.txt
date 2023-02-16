@@ -12,6 +12,7 @@ else {
 	✔✔✔
 }
 
+
 //Boomerangs are Australia's biggest export, it's also their biggest import :P
 
 //:)
@@ -19,4 +20,6 @@ else {
 //Hello
 
 //Why  the scarecrow get promoted? Because he was outstanding in his field :D!!
+
+//Avada Kedavra!
 
