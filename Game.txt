@@ -1,3 +1,5 @@
+Magdi is great!
+
 if(Magdi is great!) {
 Ban(Mehdi);
 }
